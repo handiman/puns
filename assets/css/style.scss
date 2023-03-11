@@ -1,0 +1,11 @@
+---
+---
+@import "{{ site.theme }}";
+
+// Midnight theme
+.credits, #header {
+  display: none !important;
+}
+section:first-child  {
+    margin-top: 20px !important;
+}
