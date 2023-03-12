@@ -38,3 +38,6 @@ exclude:
   - "*.orig"
   - README.md
   - LICENSE
+
+timezone: Europe/Stockholm
+language: sv-SE

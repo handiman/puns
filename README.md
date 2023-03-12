@@ -1,1 +1,1 @@
-# puns
+# Ordvitsar - den högsta formen av humor
